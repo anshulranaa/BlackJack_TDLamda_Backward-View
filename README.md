@@ -30,3 +30,5 @@ jupyter lab
 ```
 Open the TDLambda.ipynb file.
 Run the cells sequentially to see the algorithm in action.
+
+Based on : https://amreis.github.io/ml/reinf-learn/2017/11/02/reinforcement-learning-eligibility-traces.html
